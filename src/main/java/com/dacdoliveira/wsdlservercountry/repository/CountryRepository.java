@@ -34,7 +34,7 @@ public class CountryRepository
         Country inglaterra = new Country();
         inglaterra.setCapital("Londres");
         inglaterra.setCurrency(Currency.GBP);
-        inglaterra.setName("Inlaterra");
+        inglaterra.setName("Inglaterra");
         inglaterra.setPopulation(55900000);
         
         COUNTRIES.put(brasil.getName(), brasil);
